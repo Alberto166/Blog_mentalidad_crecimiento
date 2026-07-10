@@ -1,6 +1,6 @@
 # Blog_mentalidad_crecimiento
 Trabajo final del curso Mentalidad de Crecimiento y Comunicación en Entornos Digitales (Diplomatura)
-# Abrazando el Error: Aprendizaje, Power BI y la Fuerza del Feedback Radical
+# Utilizar los errores como etapas de crecimiento
 
 ##  1. Contexto
 Durante el proyecto final de nuestro curso práctico, nos enfrentamos al desafío de diseñar un tablero de control utilizando **Power BI**. El objetivo principal, más allá de la herramienta, era poner a prueba nuestra capacidad de resolver problemas complejos, adaptarnos a entornos técnicos nuevos y gestionar proyectos bajo metodologías de mejora continua.
@@ -19,8 +19,8 @@ El punto de quiebre ocurrió durante la sesión de revisión con el profesor. En
 * **Flexibilidad cognitiva:** Aprender a soltar una idea que no funciona es vital en entornos tecnológicos; aferrarse de la solución inicial frena la innovación.
 
 ##  5. Evidencia de Control de Versiones
-* **Enlace al Repositorio Público:** [Hacé clic aquí para ver este repositorio](https://github.com/Alberto166/Blog_mentalidad_crecimiento)
-* **Enlace al Commit de la Solución:** [Hacé clic aquí para ver el historial de cambios](https://github.com)
+* **Enlace al Repositorio Público:** (https://github.com/Alberto166/Blog_mentalidad_crecimiento)
+* **Enlace al Commit de la Solución:**(https://github.com)
 
 ##  6. Reflexión: Feedback Radicalmente Sincero con el Profesor
 La interacción con el profesor fue el motor de mi evolución en esta materia. Durante la corrección intermedia, él aplicó un feedback sincero: me dijo de forma directa y sin filtros que mi propuesta actual no era viable y que colapsaría en un entorno real. 
