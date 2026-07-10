@@ -1,6 +1,6 @@
 # Blog_mentalidad_crecimiento
 Trabajo final del curso Mentalidad de Crecimiento y Comunicación en Entornos Digitales (Diplomatura)
-# Utilizar los errores como etapas de crecimiento
+# Utilizar los errores como etapas de aprendizaje
 
 ##  1. Contexto
 Durante el proyecto final de nuestro curso práctico, nos enfrentamos al desafío de diseñar un tablero de control utilizando **Power BI**. El objetivo principal, más allá de la herramienta, era poner a prueba nuestra capacidad de resolver problemas complejos, adaptarnos a entornos técnicos nuevos y gestionar proyectos bajo metodologías de mejora continua.
