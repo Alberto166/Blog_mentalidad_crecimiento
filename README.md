@@ -24,5 +24,4 @@ El punto de quiebre ocurrió durante la sesión de revisión con el profesor. En
 
 ##  6. Reflexión: Feedback Radicalmente Sincero con el Profesor
 La interacción con el profesor fue el motor de mi evolución en esta materia. Durante la corrección intermedia, él aplicó un feedback sincero: me dijo de forma directa y sin filtros que mi propuesta actual no era viable y que colapsaría en un entorno real. 
-
-Abrir mi mente me permitió separar mi identidad del resultado de mi trabajo. No tomé la crítica como un ataque personal, sino como un acto de cuidado y mentoría para elevar mejorar. Esta comunicación transparente eliminó cualquier zona de confort, me impulsó a corregir el rumbo a tiempo y demostró que en la tecnología, el crecimiento ocurre cuando sustituimos el ego por la disposición a aprender de los expertos.
+Abrir mi mente me permitió separar mi identidad del resultado de mi trabajo. No tomé la crítica como un ataque personal, sino como un acto de cuidado y mentoría para mejorar. Esta comunicación transparente eliminó cualquier zona de confort, me impulsó a corregir el rumbo a tiempo y demostró que en la tecnología, el crecimiento ocurre cuando sustituimos el ego por la disposición a aprender de los expertos.
