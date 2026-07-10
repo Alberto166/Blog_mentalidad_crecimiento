@@ -20,7 +20,7 @@ El punto de quiebre ocurrió durante la sesión de revisión con el profesor. En
 
 ##  5. Evidencia de Control de Versiones
 * **Enlace al Repositorio Público:** (https://github.com/Alberto166/Blog_mentalidad_crecimiento)
-* **Enlace al Commit de la Solución:**(https://github.com)
+* **Enlace al Commit :**(https://github.com/Alberto166/Blog_mentalidad_crecimiento/commits/main/)
 
 ##  6. Reflexión: Feedback Radicalmente Sincero con el Profesor
 La interacción con el profesor fue el motor de mi evolución en esta materia. Durante la corrección intermedia, él aplicó un feedback sincero: me dijo de forma directa y sin filtros que mi propuesta actual no era viable y que colapsaría en un entorno real. 
